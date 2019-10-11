@@ -1,0 +1,8 @@
+com.ArcadiaLabs.QuestIPD
+mipmap app_icon
+string app_name
+string game_view_content_description
+string lib_name
+style BaseUnityTheme
+style UnityThemeSelector
+style UnityThemeSelector_Translucent

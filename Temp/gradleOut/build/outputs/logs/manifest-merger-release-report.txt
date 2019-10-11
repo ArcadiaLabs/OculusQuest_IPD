@@ -1,0 +1,195 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [:OVRPlugin:] C:\Users\Steph\.gradle\caches\transforms-2\files-2.1\09af3b04d00422a871e16d4fd4475085\AndroidManifest.xml:2:1-9:12
+INJECTED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:2:70-104
+		INJECTED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:2:105-135
+uses-feature#android.hardware.vr.headtracking
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:4:3-111
+	android:version
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:4:65-84
+	android:required
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:4:85-108
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:4:17-64
+application
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:5:3-20:17
+MERGED from [:OVRPlugin:] C:\Users\Steph\.gradle\caches\transforms-2\files-2.1\09af3b04d00422a871e16d4fd4475085\AndroidManifest.xml:4:3-6:17
+MERGED from [:OVRPlugin:] C:\Users\Steph\.gradle\caches\transforms-2\files-2.1\09af3b04d00422a871e16d4fd4475085\AndroidManifest.xml:4:3-6:17
+	android:icon
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:5:44-75
+	android:allowBackup
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:5:16-43
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:6:5-12:16
+	android:screenOrientation
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:6:168-205
+	android:excludeFromRecents
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:6:134-167
+	android:launchMode
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:6:206-237
+	android:hardwareAccelerated
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:6:348-383
+	android:resizeableActivity
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:6:384-418
+	android:configChanges
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:6:238-347
+	android:theme
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:6:15-79
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:6:80-133
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:7:7-10:23
+action#android.intent.action.MAIN
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:8:9-61
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:8:17-58
+category#android.intent.category.LAUNCHER
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:9:9-69
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:9:19-66
+meta-data#android.notch_support
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:11:7-78
+	android:value
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:11:55-75
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:11:18-54
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:13:5-89
+	android:value
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:13:65-86
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:13:16-64
+meta-data#unity.build-id
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:14:5-101
+	android:value
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:14:46-98
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:14:16-45
+meta-data#unity.splash-mode
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:15:5-69
+	android:value
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:15:49-66
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:15:16-48
+meta-data#unity.splash-enable
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:16:5-75
+	android:value
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:16:51-72
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:16:16-50
+meta-data#android.max_aspect
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:17:5-72
+	android:value
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:17:50-69
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:17:16-49
+meta-data#notch.config
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:18:5-81
+	android:value
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:18:44-78
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:18:16-43
+meta-data#com.samsung.android.vr.application.mode
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:19:5-97
+MERGED from [:OVRPlugin:] C:\Users\Steph\.gradle\caches\transforms-2\files-2.1\09af3b04d00422a871e16d4fd4475085\AndroidManifest.xml:5:5-96
+MERGED from [:OVRPlugin:] C:\Users\Steph\.gradle\caches\transforms-2\files-2.1\09af3b04d00422a871e16d4fd4475085\AndroidManifest.xml:5:5-96
+	android:value
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:19:71-94
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:19:16-70
+uses-feature#0x00030000
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:21:3-52
+	android:glEsVersion
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:21:17-49
+supports-gl-texture#GL_KHR_texture_compression_astc_ldr
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:22:3-77
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:22:24-74
+uses-permission#android.permission.INTERNET
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:23:3-65
+MERGED from [:OVRPlugin:] C:\Users\Steph\.gradle\caches\transforms-2\files-2.1\09af3b04d00422a871e16d4fd4475085\AndroidManifest.xml:7:3-65
+MERGED from [:OVRPlugin:] C:\Users\Steph\.gradle\caches\transforms-2\files-2.1\09af3b04d00422a871e16d4fd4475085\AndroidManifest.xml:7:3-65
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:23:20-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:24:3-69
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:24:20-66
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:25:3-78
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:25:20-75
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:26:3-73
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:26:20-70
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:27:3-66
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:27:20-63
+uses-feature#android.hardware.microphone
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:28:3-87
+	android:required
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:28:60-84
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:28:17-59
+uses-feature#android.hardware.touchscreen
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:29:3-88
+	android:required
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:29:61-85
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:29:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:30:3-99
+	android:required
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:30:72-96
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:30:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:31:3-108
+	android:required
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:31:81-105
+	android:name
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml:31:17-80
+uses-sdk
+INJECTED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml
+MERGED from [:OVRPlugin:] C:\Users\Steph\.gradle\caches\transforms-2\files-2.1\09af3b04d00422a871e16d4fd4475085\AndroidManifest.xml:3:3-45
+MERGED from [:OVRPlugin:] C:\Users\Steph\.gradle\caches\transforms-2\files-2.1\09af3b04d00422a871e16d4fd4475085\AndroidManifest.xml:3:3-45
+INJECTED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml
+		MERGED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from D:\Unity_Projects\Quest_IPD\Temp\gradleOut\src\main\AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:OVRPlugin:] C:\Users\Steph\.gradle\caches\transforms-2\files-2.1\09af3b04d00422a871e16d4fd4475085\AndroidManifest.xml:8:3-66
+	android:name
+		ADDED from [:OVRPlugin:] C:\Users\Steph\.gradle\caches\transforms-2\files-2.1\09af3b04d00422a871e16d4fd4475085\AndroidManifest.xml:8:20-63
